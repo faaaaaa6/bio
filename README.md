@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm muhammed fahanas 
 
-<!--
-**faaaaaa6/faaaaaa6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught backend developer focused on building strong foundations with **Python** and **Django**.  
+I learn hard, ship clean, and don't stop.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# What I work with
+
+**Languages**
+`Python` `SQL`
+
+**Frameworks**
+`Django` `Django REST Framework`
+
+**Databases**
+`PostgreSQL` `SQLite`
+
+**Tools & Concepts**
+`Git` `Postman` `REST API` `JWT Auth` `ORM` 
+
+---
+
+# What I'm focused on right now
+
+- Building real backend projects with Django
+- Deepening my understanding of REST APIs and authentication
+- Learning Git and version control properly
+- Documenting what I learn through blog posts
+
+---
+
+# Reach me
+
+- Portfolio: [faaaaaa6.github.io]
+- Email:fahanasmhammad634@gmail.com @email.com
+
+---
+
+*"The best way to learn is to build."*
