@@ -35,6 +35,4 @@ I learn hard, ship clean, and don't stop.
 - Portfolio: [faaaaaa6.github.io]
 - Email:fahanasmhammad634@gmail.com @email.com
 
----
 
-*"The best way to learn is to build."*
