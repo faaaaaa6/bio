@@ -32,6 +32,7 @@ I learn hard, ship clean, and don't stop.
 
 # Reach me
 
-- Email:fahanasmhammad634@gmail.com @email.com
+- Email:fahanasmhammad634@gmail.com
+- linkdein:www.linkedin.com/in/muhammed-fahanas
 
 
