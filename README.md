@@ -32,7 +32,8 @@ I learn hard, ship clean, and don't stop.
 
 # Reach me
 
-- Portfolio: [faaaaaa6.github.io]
+- Portfolio: [faaaaaa6.github.io](faaaaaa6.github.io)
+
 - Email:fahanasmhammad634@gmail.com @email.com
 
 
