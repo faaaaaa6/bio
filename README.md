@@ -14,7 +14,7 @@ I learn hard, ship clean, and don't stop.
 `Django` `Django REST Framework`
 
 **Databases**
-`PostgreSQL` `SQLite`
+`PostgreSQL` `MySQL`
 
 **Tools & Concepts**
 `Git` `Postman` `REST API` `JWT Auth` `ORM` 
